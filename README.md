@@ -38,6 +38,7 @@ response json. need to use @Component to make ExceptionHandler load by spring-re
 13. Make Cobertura Test Coverage usage example  (To Do)
 14. Make unit tests examples for CRUD APIs, in setup and teardown create and delete, in createTest Case
 verify if is created. (Done)
+15. Add version to url, just like v1beta1 in https://www.googleapis.com/container/v1beta1/projects/PROJECT_ID/clusters
 
 
 Developer Guide
