@@ -1,7 +1,7 @@
-Build Metadata Rest Service
+DevOps Metadata Rest Service
 ======================================
 
-Build Meta holds all the component builds' metadata for implementing such as contintous automatic deployment system.
+DevOps Metadata service holds all the component builds' metadata for implementing such as contintous automatic deployment system and envs info, keys info, env monitoring info, all the info related to Dev and Ops.
 
 Context and Aims
 ======================================
