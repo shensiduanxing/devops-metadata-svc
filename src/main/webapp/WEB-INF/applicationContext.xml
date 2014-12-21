@@ -15,6 +15,7 @@
 
   <sec:http auto-config='true' access-denied-page="/login.jsp">
     <sec:intercept-url pattern="/*" access="ROLE_USER" />
+    <sec:intercept-url pattern="favicon.ico" access="permitAll" />
     <sec:intercept-url pattern="/views/index.jsp" access="ROLE_USER" />
     <sec:intercept-url pattern="/views/authviews/**" access="ROLE_USER" />
     <!--  <sec:intercept-url pattern="/ws/builds/**" access="ROLE_CONSUMER" />  -->
